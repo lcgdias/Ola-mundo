@@ -1,2 +1,2 @@
-# Ola mundo
- Primeiro repositorio versionado do curso de Git e GitHub
+# Olá, mundo!
+ Primeiro repositório versionado do curso de Git e GitHub. Repositório criado durante uma aula em maio de 2023.
